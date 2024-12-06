@@ -1,0 +1,4 @@
+Key for GroqPlayground.
+
+$env:GROQ_API_KEY="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"
+
